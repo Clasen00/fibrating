@@ -1,0 +1,23 @@
+{
+  "name": "fibrating",
+  "version": "1.0.0",
+  "description": "",
+  "main": "frontend/dist/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clasen00/fibrating.git"
+  },
+  "author": "Eugene Shalaev",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Clasen00/fibrating/issues"
+  },
+  "homepage": "https://github.com/Clasen00/fibrating#readme",
+  "dependencies": {
+    "webpack": "^5.27.1",
+    "webpack-cli": "^4.5.0"
+  }
+}
